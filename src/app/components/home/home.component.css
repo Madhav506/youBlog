@@ -1,0 +1,14 @@
+.banner_container{
+    display: inherit;
+     background-color: #C4E2FF;
+    border-top: 1px solid black;
+text-align: center;
+padding: 40px;
+}
+.banner_font{
+    font-size: 60px;
+    font-weight: 700em;
+}
+.banner_tagline{
+    font-size: 30px;
+}
